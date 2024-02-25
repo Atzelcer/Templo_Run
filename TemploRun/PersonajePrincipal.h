@@ -11,14 +11,3 @@ public :
 	void Deslizamiento();
 	void Impacto();
 };
-
-/*
-private : 
-// atributos
-
-public : 
-//metodos 
-4 metodos minimo 
-
-
-*/
